@@ -2,26 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c989902-00ee-46fc-9d5d-1b4e26141bcf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.browserslistrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/webpack" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/webpack-dev-server" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/webpack/development.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/webpack/environment.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/webpack/production.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/webpack/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/webpacker.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/postcss.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/untitled.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/untitled.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@rails/actioncable/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@rails/actioncable/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@rails/activestorage/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@rails/activestorage/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@rails/ujs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@rails/ujs/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/spark-md5/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/spark-md5/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/turbolinks/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/turbolinks/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +36,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="postgresql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -159,6 +141,7 @@
       <updated>1609291132616</updated>
       <workItem from="1609291134414" duration="881000" />
       <workItem from="1609294037589" duration="2188000" />
+      <workItem from="1609298790614" duration="160000" />
     </task>
     <servers />
   </component>
